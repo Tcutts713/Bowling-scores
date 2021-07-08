@@ -1,0 +1,4 @@
+This program reads from a file BowlingScores.txt and makes builds up an array of players from the structure Scores and from the file.  
+This program will also calculate the average of the players scores and store that into an array.   The last function out puts the players name, 
+their scores and then what they averaged.
+
